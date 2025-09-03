@@ -1,5 +1,0 @@
-#pragma once
-#define WIFI_SSID  "DIR-842V2-1348"
-#define WIFI_PASSWORD "78827318"
-#define MQTT_HOST "192.168.0.183"
-#define MQTT_PORT 1883

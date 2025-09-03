@@ -1,0 +1,6 @@
+* text=auto
+*.sh  text eol=lf
+*.ino text eol=lf
+*.md  text eol=lf
+# optional für Windows-Batch:
+# *.bat text eol=crlf
