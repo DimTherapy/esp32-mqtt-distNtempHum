@@ -1,0 +1,5 @@
+secrets.h
+logs/
+*.log
+.vscode/
+.idea/
